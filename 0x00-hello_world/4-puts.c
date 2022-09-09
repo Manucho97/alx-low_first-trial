@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
- * Main - starts the program
+ * Main - initiates the program
  *
- * Return: Returns an integer
+ * Retun: return  o
  */
 int main(void)
-{	
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+{
+	puts("\"Programming is like building a multiligual puzzzle");
+	retiurn (0);
 }
