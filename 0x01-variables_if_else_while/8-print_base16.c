@@ -8,14 +8,14 @@
 
 int main(void)
 {
-	char i;
+	char alphabet;
 	int digit;
 
 	for (digit = 0; digit < 10; digit++)
 		putchar((digit % 10) + '0');
 
-	for (i = 'a'; i = 'f'; i++)
-		putchar(i);
+	for (alphabet = 'a'; alphabet = 'f'; alphabet++)
+		putchar(alphabet);
 
 	putchar('\n');
 
