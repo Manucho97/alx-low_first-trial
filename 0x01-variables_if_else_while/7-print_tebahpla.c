@@ -9,10 +9,11 @@
 
 int main(void)
 {
-	int digit;
+	char i;
 
-	for (digit = 9; digit >= 0; digit--)
-		putchar((digit % 10) + '0');
+	for (i = 'z'; i >= 'a'; i--)
+		putchar(i);
+
 	putchar('\n');
 
 	return (0);
