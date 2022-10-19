@@ -4,7 +4,7 @@
  * print_last_digit - prints the last digit of a number.
  *
  * Prototype: int print_last_digit(int);
- * @n: Integer
+ * n: Integer
  *
  * Return: value of the last digit
  */
